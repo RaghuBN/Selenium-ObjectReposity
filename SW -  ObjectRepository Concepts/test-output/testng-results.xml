@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22050" started-at="2020-08-11T10:35:54Z" finished-at="2020-08-11T10:36:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22050" started-at="2020-08-11T10:35:54Z" finished-at="2020-08-11T10:36:16Z">
+      <class name="ObjectRepoDemo.ObjTestDemo">
+        <test-method status="PASS" signature="ConfigRead()[pri:0, instance:ObjectRepoDemo.ObjTestDemo@71e7a66b]" name="ConfigRead" duration-ms="22026" started-at="2020-08-11T16:05:54Z" finished-at="2020-08-11T16:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigRead -->
+      </class> <!-- ObjectRepoDemo.ObjTestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

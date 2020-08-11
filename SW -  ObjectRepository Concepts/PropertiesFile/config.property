@@ -1,0 +1,17 @@
+ChromeDriver =  D:\\Selenium\\Selenium Browsers Jars\\Chrome 84\\chromedriver.exe
+
+FirefoxDriver = D:\\Selenium\\Selenium Browsers Jars\\FireFox\\geckodriver.exe
+
+IeDriver = D:\\Selenium\\Selenium Browsers Jars\\IE\\IE 64\\IEDriverServer.exe
+
+baseUrl = https://www.nopcommerce.com/en/login?returnUrl=%2Fen
+
+Uname = Username
+
+Psd = Password
+
+SignIn = //input[contains(@type,'submit')]
+
+ExcelPath = "";
+
+
